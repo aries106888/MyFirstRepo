@@ -1,3 +1,5 @@
 touch learning.txt       # For Linux/Mac
 # Windows Command Prompt alternative:
 type nul > learning.txt
+I have learned how to create repositories on GitHub, make commits, and manage branches.
+I also understand the importance of version control for collaborating with others and keeping track of project changes.
