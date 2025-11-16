@@ -1,0 +1,3 @@
+touch learning.txt       # For Linux/Mac
+# Windows Command Prompt alternative:
+type nul > learning.txt
