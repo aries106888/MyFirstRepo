@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+My name is Kevin Muli Wambua, and I am passionate about technology, web development, and software engineering. I enjoy learning how digital systems work and creating efficient solutions through code and design.
+
+I’m currently advancing my skills in Git, GitHub, software development, and various tools that help me collaborate effectively in tech projects. This repository marks the beginning of my journey into version control and professional development workflows.
