@@ -1,4 +1,3 @@
-This is mMyFirstRepo
+# MyFirstRepo
 
 This is my first repository created as part of a GitHub learning task.
-sitory created as part of a GitHub learning task
